@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@babel/plugin-transform-runtime": "^7.17.0",
+    "subprocess": "^0.1.0",
+    "syntax-error": "^1.4.0",
+    "ws": "^8.8.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.2",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/register": "^7.17.0",
+    "grunt-contrib-obfuscator": "^8.0.0"
+  }
+}
